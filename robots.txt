@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://luggage-storage-nu.vercel.app/sitemap.xml
